@@ -1,4 +1,4 @@
 # PowerPuff
 This is my first Git repository
 <br>
-Author - PowerPuff Girls
+Author - PowerPuff Girls - Mojo jojo
